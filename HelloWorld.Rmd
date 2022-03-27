@@ -1,0 +1,12 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+---
+title: "My R Markdown file"
+author: "You!"
+date: "3/25/2022"
+output: HTML_document
+--
+## This is a markdown file
